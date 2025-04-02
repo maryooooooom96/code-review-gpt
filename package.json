@@ -46,7 +46,7 @@
     "@inquirer/prompts": "^3.0.4",
     "@inquirer/rawlist": "^1.2.9",
     "@langchain/core": "^0.3.29",
-    "@langchain/openai": "^0.3.17",
+    "@langchain/openai": "^0.4.4",
     "azure-devops-node-api": "^12.3.0",
     "dotenv": "^16.3.1",
     "langchain": "^0.3.11",
