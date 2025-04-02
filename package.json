@@ -43,7 +43,7 @@
   "dependencies": {
     "@actions/github": "^5.1.1",
     "@gitbeaker/rest": "^39.10.2",
-    "@inquirer/prompts": "^3.0.4",
+    "@inquirer/prompts": "^7.3.3",
     "@inquirer/rawlist": "^1.2.9",
     "@langchain/core": "^0.3.29",
     "@langchain/openai": "^0.3.17",
