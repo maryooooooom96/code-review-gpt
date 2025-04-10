@@ -44,7 +44,7 @@
     "@actions/github": "^6.0.0",
     "@gitbeaker/rest": "^39.10.2",
     "@inquirer/prompts": "^3.0.4",
-    "@inquirer/rawlist": "^1.2.9",
+    "@inquirer/rawlist": "^4.0.10",
     "@langchain/core": "^0.3.29",
     "@langchain/openai": "^0.3.17",
     "azure-devops-node-api": "^14.1.0",
