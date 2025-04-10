@@ -50,7 +50,7 @@
     "azure-devops-node-api": "^14.1.0",
     "dotenv": "^16.3.1",
     "langchain": "^0.3.11",
-    "octokit": "^3.1.0",
+    "octokit": "^4.1.2",
     "picocolors": "^1.1.1",
     "tinyglobby": "^0.2.10",
     "tslog": "^4.8.2",
