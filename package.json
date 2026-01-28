@@ -41,7 +41,7 @@
   "author": "Matt Carey",
   "license": "MIT",
   "dependencies": {
-    "@actions/github": "^6.0.0",
+    "@actions/github": "^8.0.1",
     "@gitbeaker/rest": "^39.10.2",
     "@inquirer/prompts": "^3.0.4",
     "@inquirer/rawlist": "^4.0.10",
